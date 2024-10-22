@@ -8,3 +8,8 @@
 - [Basic Gates](https://github.com/SMAnish-28/dgtal-simulation/blob/main/Basic_Gates.ms14)
 - [Half Adder](https://github.com/SMAnish-28/dgtal-simulation/blob/main/HALF%20ADDER.ms14)
 - [Full Adder](https://github.com/SMAnish-28/dgtal-simulation/blob/main/FULL%20ADDER.ms14)
+- [Half Subtractor]()
+- [Full Subtractor]()
+- [4:1 MUX]()
+- [2-bit Magnitude Comparator]()
+- [Parity Generator & Checker]()
